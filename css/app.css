@@ -1,0 +1,19 @@
+.book_img {
+    height: 200px;
+}
+.book_img {
+    margin-bottom: 10px;
+}
+.format {
+    margin-top: -8px;
+}
+.pointer {
+    cursor: pointer;
+}
+.phone-block {
+    height: 36px;
+}
+
+.modal{
+    display: block;
+}
